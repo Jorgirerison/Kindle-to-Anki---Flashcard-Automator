@@ -1,0 +1,9 @@
+src/notebooks
+tests
+__pycache__
+.pytest_cache
+venv
+.env
+vocab.db
+src/data/__pycache__
+execution_register.csv
