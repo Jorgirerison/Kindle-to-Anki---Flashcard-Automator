@@ -2,7 +2,6 @@
 
 <!-- Português -->
 ## 🇧🇷 Português (Portuguese)
-[Todo o conteúdo em português aqui...]
 
 Transforma palavras que você clicou/inspencionou no Kindle em cartões do Anki **automaticamente**, no modelo de cartões do Eliezer Piano (YouTuber de aprendizado de idiomas).  
 
